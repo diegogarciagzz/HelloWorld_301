@@ -29,17 +29,16 @@ cout << "Se acabó la materia" << endl; ``
 
 [Markdown](https://markdown.es/)
 
-![imagen](https://images.app.goo.gl/JLh4MWA2QQxxuhdM7)
-![imagen2](https://m.facebook.com/ClubTigres/photos/a.600027626725951/3879895022072512/?type=3)
+![imagen](https://tse2.mm.bing.net/th?id=OIP.Mjm7tV7NqarH17g1X3WkzwHaE1&pid=Api&P=0&h=180)
 
 
 #Planeacion C++
+| Fecha | Descrición |
+| Diciembre | Dormir |
+| Enero | Dormir |
+| Febrero | Dormir |
 
-|Fecha | Descripcion |
-|Diciembre | Apuntes 1 y 2 c++|
-| Enero | Poo - Precentacion 1-2 - programar al menos 3 hrs a la semana|
-| Febrero | Poo - Precentacion3 - programar al menos 3 hrs a la semana|
-Marzo | Poo - Precentacion 4 - programar al menos 3 hrs a la semana|
+
 
 
 
