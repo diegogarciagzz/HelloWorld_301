@@ -38,8 +38,8 @@ cout << "Se acabó la materia" << endl; ``
 |Fecha | Descripcion |
 |Diciembre | Apuntes 1 y 2 c++|
 | Enero | Poo - Precentacion 1-2 - programar al menos 3 hrs a la semana|
-| Febrero | Poo - Precentacion 3 - programar al menos 3 hrs a la semana
-| Marzo | Poo - Precentacion 4 - programar al menos 3 hrs a la semana
+| Febrero | Poo - Precentacion3 - programar al menos 3 hrs a la semana|
+Marzo | Poo - Precentacion 4 - programar al menos 3 hrs a la semana|
 
 
 
